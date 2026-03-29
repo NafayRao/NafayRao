@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nafay Rao</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Interactive Portfolio Website**
+- 🔭 I’m currently working on **Leadloop Al**
 
 - 🌱 I’m currently learning **Advanced React (Next.js), Vue.js & GSAP animations & Web performance optimization**
 
